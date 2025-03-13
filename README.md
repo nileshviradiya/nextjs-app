@@ -5,7 +5,7 @@ This is a simple Next.js application that demonstrates the use of the App Router
 ## Project Structure
 
 ```
-nextjs-app
+nextjs-app1
 ├── app
 │   ├── layout.js          # Layout component for the application
 │   ├── page.js            # Main entry point for the application
